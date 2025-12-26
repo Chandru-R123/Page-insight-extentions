@@ -143,102 +143,74 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 ## ▶️ Installation & Setup
 
 ### 1️⃣ Backend Setup
-
-```bash
 cd backend
 npm install
 node index.js
 Backend will run at:
-
 http://localhost:5000
-Chrome Extension Setup
+
+
+### Chrome Extension Setup
 
 Open Google Chrome
-
 Go to chrome://extensions
-
 Enable Developer Mode
-
 Click Load Unpacked
-
 Select the extension folder
-
 Extension will appear in the toolbar
 
-🧪 Testing
+### Testing
 
 You can test using:
-
 Wikipedia articles
-
 Blog posts
-
 News websites
-
 Documentation pages
-
 Click Analyze and wait a few seconds for results.
 
-🔒 Privacy & Security
+### Privacy & Security
 
 No browsing data is stored
-
 No personal information collected
-
 Only visible webpage content is analyzed
-
 Works only on user request
 
-📈 Advantages
+### Advantages
 
 Saves reading time
-
 Improves productivity
-
 Easy to use
-
 Lightweight extension
-
 AI-powered accuracy
 
-🎓 Use Cases
+### Use Cases
 
 Students summarizing articles
-
 Researchers scanning papers
-
 Developers reading documentation
-
 Professionals reading news
-
 General users saving time
 
-🧾 Limitations
+### Limitations
 
 Depends on AI response speed
-
 Requires internet connection
-
 AI output may vary slightly
 
-📌 Future Enhancements
+### Future Enhancements
 
 Support for more languages
-
 Keyword extraction
-
 Highlight important sentences
-
 Offline summarization
-
 Support for Firefox & Edge
 
-🏁 Conclusion
+### Conclusion
 
 Page Insight is a simple yet powerful AI-based browser extension that enhances web browsing by providing instant summaries, sentiment analysis, and page classification.
 It is ideal for anyone who wants quick insights without reading full content.
 
-👨‍💻 Author
+### Author
 
 Project Name: Page Insight
 Category: AI + Full Stack + Browser Extension
