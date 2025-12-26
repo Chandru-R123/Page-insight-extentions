@@ -75,19 +75,19 @@ The system processes content quickly and displays results directly in the extens
 
 ## 🧠 Architecture
 
--User Clicks Analyze
+User Clicks Analyze<br>
 ↓
--Popup Script (popup.js)
+Popup Script (popup.js)
 ↓
--Content Script (content.js)
+Content Script (content.js)
 ↓
--Backend API (Express)
+Backend API (Express)
 ↓
--AI Model (DeepSeek)
+AI Model (DeepSeek)
 ↓
--Response (JSON)
+Response (JSON)
 ↓
--Results Displayed in Popup
+Results Displayed in Popup
 
 
 ---
