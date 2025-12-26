@@ -1,0 +1,5 @@
+﻿{
+  "model": "llama3",
+  "prompt": "Reply OK",
+  "stream": false
+}
