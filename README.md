@@ -77,17 +77,17 @@ The system processes content quickly and displays results directly in the extens
 
 User Clicks Analyze<br>
 ↓
-Popup Script (popup.js)
+Popup Script (popup.js)<br>
 ↓
-Content Script (content.js)
+Content Script (content.js)<br>
 ↓
-Backend API (Express)
+Backend API (Express)<br>
 ↓
-AI Model (DeepSeek)
+AI Model (DeepSeek)<br>
 ↓
-Response (JSON)
+Response (JSON)<br>
 ↓
-Results Displayed in Popup
+Results Displayed in Popup<br>
 
 
 ---
@@ -109,26 +109,26 @@ Results Displayed in Popup
 
 ## 📁 Project Structure
 
-page-insight/
-│
-├── extension/
-│ ├── manifest.json
-│ ├── popup.html
-│ ├── popup.css
-│ ├── popup.js
-│ ├── content.js
-│ └── icons/
-│ ├── icon16.png
-│ ├── icon48.png
-│ └── icon128.png
-│
-├── backend/
-│ ├── index.js
-│ ├── package.json
-│ ├── package-lock.json
-│ └── .env
-│
-└── README.md
+page-insight/<br>
+│<br>
+├── extension/<br>
+│ ├── manifest.json<br>
+│ ├── popup.html<br>
+│ ├── popup.css<br>
+│ ├── popup.js<br>
+│ ├── content.js<br>
+│ └── icons/<br>
+│ ├── icon16.png<br>
+│ ├── icon48.png<br>
+│ └── icon128.png<br>
+│<br>
+├── backend/<br>
+│ ├── index.js<br>
+│ ├── package.json<br>
+│ ├── package-lock.json<br>
+│ └── .env<br>
+│<br>
+└── README.md<br>
 
 ---
 
