@@ -143,78 +143,78 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 ## ▶️ Installation & Setup
 
 ### 1️⃣ Backend Setup
-cd backend
-npm install
-node index.js
-Backend will run at:
-http://localhost:5000
+cd backend<br>
+npm install<br>
+node index.js<br>
+Backend will run at:<br>
+http://localhost:5000<br>
 
 
 ### Chrome Extension Setup
 
-Open Google Chrome
-Go to chrome://extensions
-Enable Developer Mode
-Click Load Unpacked
-Select the extension folder
-Extension will appear in the toolbar
+Open Google Chrome<br>
+Go to chrome://extensions<br>
+Enable Developer Mode<br>
+Click Load Unpacked<br>
+Select the extension folder<br>
+Extension will appear in the toolbar<br>
 
 ### Testing
 
-You can test using:
-Wikipedia articles
-Blog posts
-News websites
-Documentation pages
-Click Analyze and wait a few seconds for results.
+You can test using:<br>
+Wikipedia articles<br>
+Blog posts<br>
+News websites<br>
+Documentation pages<br>
+Click Analyze and wait a few seconds for results.<br>
 
 ### Privacy & Security
 
-No browsing data is stored
-No personal information collected
-Only visible webpage content is analyzed
-Works only on user request
+No browsing data is stored<br>
+No personal information collected<br>
+Only visible webpage content is analyzed<br>
+Works only on user request<br>
 
 ### Advantages
 
-Saves reading time
-Improves productivity
-Easy to use
-Lightweight extension
-AI-powered accuracy
+Saves reading time<br>
+Improves productivity<br>
+Easy to use<br>
+Lightweight extension<br>
+AI-powered accuracy<br>
 
 ### Use Cases
 
-Students summarizing articles
-Researchers scanning papers
-Developers reading documentation
-Professionals reading news
-General users saving time
+Students summarizing articles<br>
+Researchers scanning papers<br>
+Developers reading documentation<br>
+Professionals reading news<br>
+General users saving time<br>
 
 ### Limitations
 
-Depends on AI response speed
-Requires internet connection
-AI output may vary slightly
+Depends on AI response speed<br>
+Requires internet connection<br>
+AI output may vary slightly<br>
 
 ### Future Enhancements
 
-Support for more languages
-Keyword extraction
-Highlight important sentences
-Offline summarization
-Support for Firefox & Edge
+Support for more languages<br>
+Keyword extraction<br>
+Highlight important sentences<br>
+Offline summarization<br>
+Support for Firefox & Edge<br>
 
 ### Conclusion
 
-Page Insight is a simple yet powerful AI-based browser extension that enhances web browsing by providing instant summaries, sentiment analysis, and page classification.
-It is ideal for anyone who wants quick insights without reading full content.
+Page Insight is a simple yet powerful AI-based browser extension that enhances web browsing by providing instant summaries, sentiment analysis, and page classification.<br>
+It is ideal for anyone who wants quick insights without reading full content.<br>
 
 ### Author
 
-Project Name: Page Insight
-Category: AI + Full Stack + Browser Extension
-Purpose: Educational / Productivity Tool
+Project Name: Page Insight<br>
+Category: AI + Full Stack + Browser Extension<br>
+Purpose: Educational / Productivity Tool<br>
 
 
 ---
